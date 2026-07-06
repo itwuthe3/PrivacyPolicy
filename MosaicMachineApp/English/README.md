@@ -1,6 +1,6 @@
 # MosaicMachine Privacy Policy
 
-Last updated: July 5, 2026
+Last updated: July 6, 2026
 
 MosaicMachine ("the App") is a video blurring app designed with privacy as its top priority. This policy explains what information the App handles and why.
 
@@ -11,6 +11,17 @@ All video processing in the App — face detection, tracking, applying mosaic/bl
 - Your videos are never uploaded to any external server
 - Face detection results and facial data are never transmitted off the device
 - Processed videos are saved to your camera roll only when you choose to save them
+
+## Face data
+
+The App performs on-device face detection to apply mosaic effects, but it does not collect face data.
+
+- **What is processed:** Only face bounding-box coordinates produced by Apple's Vision framework on your device. The App does not capture or generate facial images or faceprints (facial feature data), and it performs no processing that identifies individuals.
+- **Purpose:** The coordinates are used solely to apply mosaic, blur, or black-bar effects at the detected positions.
+- **Storage:** Face coordinates exist only in temporary memory during your editing session. They are never written to device storage or to any external server.
+- **Retention:** For the duration of the editing session only. They are discarded when you switch videos or close the App.
+- **Sharing:** None. Face coordinates, video frames, and any face data never leave your device.
+- **Relation to analytics:** Usage analytics (described below) include only the numeric count of detected faces — never facial images, coordinates, or features.
 
 ## Information we collect
 
