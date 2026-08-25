@@ -114,3 +114,124 @@ iCloud やパソコン経由で端末のバックアップから復元すると�
 ## 関連リンク
 
 - [プライバシーポリシー](../Japanese/)
+
+---
+
+# TAMALIBA Support (English)
+
+TAMALIBA collects your notes, tasks, and articles to read later into a single timeline —
+as easily as typing into a chat. Everything you write stays on your device, with no ads and
+no tracking.
+
+## Frequently asked questions
+
+### Getting started
+
+**Q. How do I get started?**
+When you open the App there is an input field at the bottom. Write whatever comes to mind and
+send it, and that alone stacks it onto your timeline. There are no folders to sort into and no
+pages to create. When you feel like organizing, add tags afterwards.
+
+**Q. Do I have to choose between note, task, and bookmark?**
+No. TAMALIBA is designed so that posts have no type. Everything is written as a "post" first,
+and only the ones you want to act on get switched to a task later with one tap.
+Organize them however you like with tags.
+
+**Q. Do I need an account?**
+No. There is no sign-in screen. All your data is stored on your device.
+
+### Writing and formatting
+
+**Q. How do I enter bold text or a bulleted list?**
+The "Aa" button to the left of the input field opens the formatting toolbar. You can choose
+bold, italic, strikethrough, inline code, links, bulleted lists, numbered lists, checklists,
+block quotes, and code blocks. There is no markup to memorize.
+
+**Q. How do I end a list?**
+Press return on an empty item and the list ends, returning you to a normal line.
+
+**Q. Can I rewrite a post?**
+Yes. Tap the post to open its detail screen and edit the text.
+
+**Q. What are comments for?**
+Use them to add to a single post or to record how something is progressing. A comment itself
+can be turned into a task, saved, or given a reminder, just like a post.
+
+### To-dos and reminders
+
+**Q. How do I turn a note into a task?**
+Long-press the post in the timeline, or choose "Make a task" from the menu on the detail
+screen. Check it off when you're done.
+
+**Q. Do reminders send notifications?**
+If you set a date and time on a post, a notification arrives at that time. Notifications are
+generated on your device and use no external server. If one doesn't arrive, check that
+notifications are allowed in iOS Settings > Notifications > TAMALIBA.
+
+**Q. What does the Home Screen widget do?**
+It shows your open tasks, and you can tap one to complete it right there. Tapping an
+empty area opens the App's input screen.
+
+### Capturing without opening the App
+
+**Q. How do I save an article I'm reading in Safari?**
+Choose TAMALIBA from the share button. On the screen that opens you can add a note or tags
+before saving. If TAMALIBA doesn't appear in the share sheet, enable it from "More" at the
+bottom of the share sheet.
+
+**Q. Can I post using Siri?**
+Yes. Say something like "Note to TAMALIBA", "Save to TAMALIBA", or "Add to TAMALIBA".
+You can also call it from the Shortcuts app.
+
+**Q. Can I take notes on Apple Watch alone?**
+Yes. Tap "New note" in the Apple Watch app and enter text by voice, keyboard, or Scribble.
+Even when your iPhone isn't nearby, the note is saved on the Apple Watch and sent automatically
+the next time it connects to your iPhone. The number of notes waiting to be sent is shown on
+the Apple Watch home screen.
+
+**Q. Can I open it straight from my watch face?**
+Add TAMALIBA as a complication from the watch face editor, and one tap opens the input screen.
+
+### Finding things
+
+**Q. How do I find past posts?**
+Search at the top of the screen looks across post text, tags, and comments. The filter in the
+toolbar narrows by tasks, completed, saved, with a reminder, and by tag.
+
+**Q. Can I find them from the iPhone's built-in search?**
+Yes. Your posts' contents appear in Spotlight search, which you reach by swiping down on the
+Home Screen. Tapping a result opens that post.
+
+### Data
+
+**Q. Can I sync my records with another device?**
+Not yet — data is stored on your device only. Syncing between devices is something we are
+considering for the future.
+
+**Q. How do I back up my data?**
+From Settings you can export all your records as JSON or Markdown. JSON is for keeping your
+data, Markdown is for reading. If you have iCloud Backup enabled on your device, your data is
+included there as well.
+
+**Q. What about when I get a new device?**
+Restoring the device from a backup via iCloud or a computer carries your data over. To be safe,
+we recommend exporting as JSON from Settings beforehand.
+
+**Q. What happens if I delete the App?**
+The data stored on your device is deleted along with it, and it cannot be recovered.
+Export your data from Settings before deleting.
+
+**Q. I saved something from the share sheet or a widget, but it isn't in the App.**
+If the App was left running, it may not appear right away. Quit the App once and open it again.
+
+## Reporting bugs and requests
+
+Please get in touch below. If possible, it helps to include your iPhone model, your iOS
+version, and what you were doing when it happened.
+
+- Developer: Takahiro Ito
+- Email: itwuthe3@icloud.com
+
+## Links
+
+- [Privacy Policy](../English/)
