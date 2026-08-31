@@ -66,7 +66,7 @@ Google の **Firebase Crashlytics** と **Firebase Analytics** を利用して�
 
 ## App 内課金
 
-本アプリには、広告を消す買い切りと、開発者への寄付（Tip Jar）があります。
+本アプリには、広告を消す買い切りがあります。
 
 - 決済はすべて Apple の App Store を通じて行われます。
   開発者がクレジットカード番号などの決済情報を受け取ることはありません
